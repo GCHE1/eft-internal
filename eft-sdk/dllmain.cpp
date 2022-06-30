@@ -10,8 +10,7 @@
        \:\ \/__/         \/__/     \/__/
         \:\__\
          \/__/
-
-        eft-sdk - developed by interpreter		
+         
 */
 
 #include <cheat/internal/core.hpp>
@@ -44,7 +43,7 @@ auto DllMain( void *, std::uint32_t call_reason, void * ) -> bool
     //if ( mono_lib::did_find_be_fat( ) )
     //    MessageBox( NULL, "in beater", "no way", MB_OK );
     //else
-    //    MessageBox( NULL, "yelling at interp brb", "not a way", MB_OK );
+    //    MessageBox( NULL, "yelling at brb", "not a way", MB_OK );
 
     return true;
 }
