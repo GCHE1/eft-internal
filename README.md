@@ -1,2 +1,2 @@
-# eft-external
-An Other Paste (external)
+# eft-internal
+An Other Paste (internal)
